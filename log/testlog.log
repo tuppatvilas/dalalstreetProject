@@ -1,0 +1,197 @@
+2023-02-19 08:48:16,150 - DalalStreet automation Framework -INFO - framework exicution started
+2023-02-19 08:48:41,610 - DalalStreet automation Framework -INFO - brauser loncg,url,maximise
+2023-02-19 08:48:41,706 - DalalStreet automation Framework -INFO - object creation
+2023-02-19 08:48:42,392 - DalalStreet automation Framework -INFO - login to the application
+2023-02-19 08:48:42,419 - DalalStreet automation Framework -INFO - test case execution start - loginveryfication
+2023-02-19 08:48:45,502 - DalalStreet automation Framework -INFO - test case execution sucsses - loginveryfication
+2023-02-19 08:48:45,518 - DalalStreet automation Framework -INFO - framework exicution stoped
+2023-02-19 08:51:41,172 - DalalStreet automation Framework -INFO - framework exicution started
+2023-02-19 08:53:20,804 - DalalStreet automation Framework -INFO - brauser loncg,url,maximise
+2023-02-19 08:53:20,883 - DalalStreet automation Framework -INFO - object creation
+2023-02-19 08:53:21,710 - DalalStreet automation Framework -INFO - login to the application
+2023-02-19 08:53:21,745 - DalalStreet automation Framework -INFO - test case execution start - loginveryfication
+2023-02-19 08:53:24,839 - DalalStreet automation Framework -INFO - test case execution fail - loginveryfication
+2023-02-19 08:53:25,089 - DalalStreet automation Framework -INFO - teke screenshot - 
+2023-02-19 08:54:34,898 - DalalStreet automation Framework -INFO - brauser loncg,url,maximise
+2023-02-19 08:54:34,906 - DalalStreet automation Framework -INFO - object creation
+2023-02-19 08:54:35,781 - DalalStreet automation Framework -INFO - login to the application
+2023-02-19 08:54:35,795 - DalalStreet automation Framework -INFO - test case execution start - logoutverifycation
+2023-02-19 08:54:48,485 - DalalStreet automation Framework -INFO - test case execution fail - logoutverifycation
+2023-02-19 08:54:48,690 - DalalStreet automation Framework -INFO - teke screenshot - 
+2023-02-19 08:55:46,865 - DalalStreet automation Framework -INFO - brauser loncg,url,maximise
+2023-02-19 08:55:46,878 - DalalStreet automation Framework -INFO - object creation
+2023-02-19 08:55:47,585 - DalalStreet automation Framework -INFO - login to the application
+2023-02-19 08:55:47,597 - DalalStreet automation Framework -INFO - test case execution start - buyWithIntradayMarket
+2023-02-19 08:56:11,578 - DalalStreet automation Framework -INFO - test case execution fail - buyWithIntradayMarket
+2023-02-19 08:56:11,768 - DalalStreet automation Framework -INFO - teke screenshot - 
+2023-02-19 08:56:41,464 - DalalStreet automation Framework -INFO - test case execution start - buyverificationWithLongTermMarket
+2023-02-19 08:56:41,470 - DalalStreet automation Framework -INFO - test case execution skipped - buyverificationWithLongTermMarket
+2023-02-19 08:57:32,437 - DalalStreet automation Framework -INFO - brauser loncg,url,maximise
+2023-02-19 08:57:32,442 - DalalStreet automation Framework -INFO - object creation
+2023-02-19 08:57:35,923 - DalalStreet automation Framework -INFO - login to the application
+2023-02-19 08:57:35,931 - DalalStreet automation Framework -INFO - test case execution start - tansitionPageDataGet
+2023-02-19 08:57:38,976 - DalalStreet automation Framework -INFO - test case execution fail - tansitionPageDataGet
+2023-02-19 08:57:39,030 - DalalStreet automation Framework -INFO - test case execution fail - tansitionPageDataGet
+2023-02-19 08:57:39,050 - DalalStreet automation Framework -INFO - framework exicution stoped
+2023-02-19 08:58:54,923 - DalalStreet automation Framework -INFO - framework exicution started
+2023-02-19 08:58:55,079 - DalalStreet automation Framework -INFO - framework exicution stoped
+2023-02-19 09:01:02,809 - DalalStreet automation Framework -INFO - framework exicution started
+2023-02-19 09:01:13,211 - DalalStreet automation Framework -INFO - brauser loncg,url,maximise
+2023-02-19 09:01:13,312 - DalalStreet automation Framework -INFO - object creation
+2023-02-19 09:01:14,047 - DalalStreet automation Framework -INFO - login to the application
+2023-02-19 09:01:14,073 - DalalStreet automation Framework -INFO - test case execution start - loginveryfication
+2023-02-19 09:01:17,142 - DalalStreet automation Framework -INFO - test case execution sucsses - loginveryfication
+2023-02-19 09:01:24,775 - DalalStreet automation Framework -INFO - brauser loncg,url,maximise
+2023-02-19 09:01:24,777 - DalalStreet automation Framework -INFO - object creation
+2023-02-19 09:01:25,669 - DalalStreet automation Framework -INFO - login to the application
+2023-02-19 09:01:25,676 - DalalStreet automation Framework -INFO - test case execution start - logoutverifycation
+2023-02-19 09:01:37,955 - DalalStreet automation Framework -INFO - test case execution sucsses - logoutverifycation
+2023-02-19 09:01:37,962 - DalalStreet automation Framework -INFO - framework exicution stoped
+2023-02-19 09:03:13,391 - DalalStreet automation Framework -INFO - framework exicution started
+2023-02-19 09:03:23,063 - DalalStreet automation Framework -INFO - brauser loncg,url,maximise
+2023-02-19 09:03:23,144 - DalalStreet automation Framework -INFO - object creation
+2023-02-19 09:03:23,869 - DalalStreet automation Framework -INFO - login to the application
+2023-02-19 09:03:23,893 - DalalStreet automation Framework -INFO - test case execution start - buyWithIntradayMarket
+2023-02-19 09:03:35,428 - DalalStreet automation Framework -INFO - test case execution sucsses - buyWithIntradayMarket
+2023-02-19 09:03:45,270 - DalalStreet automation Framework -INFO - brauser loncg,url,maximise
+2023-02-19 09:03:45,272 - DalalStreet automation Framework -INFO - object creation
+2023-02-19 09:03:46,283 - DalalStreet automation Framework -INFO - login to the application
+2023-02-19 09:03:46,293 - DalalStreet automation Framework -INFO - test case execution start - buyverificationWithLongTermMarket
+2023-02-19 09:03:48,556 - DalalStreet automation Framework -INFO - test case execution fail - buyverificationWithLongTermMarket
+2023-02-19 09:03:48,893 - DalalStreet automation Framework -INFO - teke screenshot - 
+2023-02-19 09:03:48,898 - DalalStreet automation Framework -INFO - framework exicution stoped
+2023-02-19 09:05:19,254 - DalalStreet automation Framework -INFO - framework exicution started
+2023-02-19 09:05:31,429 - DalalStreet automation Framework -INFO - brauser loncg,url,maximise
+2023-02-19 09:05:31,552 - DalalStreet automation Framework -INFO - object creation
+2023-02-19 09:05:32,385 - DalalStreet automation Framework -INFO - login to the application
+2023-02-19 09:05:32,427 - DalalStreet automation Framework -INFO - test case execution start - buyWithIntradayMarket
+2023-02-19 09:05:44,157 - DalalStreet automation Framework -INFO - test case execution fail - buyWithIntradayMarket
+2023-02-19 09:05:44,176 - DalalStreet automation Framework -INFO - test case execution fail - buyWithIntradayMarket
+2023-02-19 09:05:44,198 - DalalStreet automation Framework -INFO - framework exicution stoped
+2023-02-19 09:06:00,332 - DalalStreet automation Framework -INFO - framework exicution started
+2023-02-19 09:06:10,135 - DalalStreet automation Framework -INFO - brauser loncg,url,maximise
+2023-02-19 09:06:10,251 - DalalStreet automation Framework -INFO - object creation
+2023-02-19 09:06:11,063 - DalalStreet automation Framework -INFO - login to the application
+2023-02-19 09:06:11,088 - DalalStreet automation Framework -INFO - test case execution start - buyWithIntradayMarket
+2023-02-19 09:06:20,077 - DalalStreet automation Framework -INFO - test case execution fail - buyWithIntradayMarket
+2023-02-19 09:06:20,496 - DalalStreet automation Framework -INFO - teke screenshot - 
+2023-02-19 09:06:40,314 - DalalStreet automation Framework -INFO - brauser loncg,url,maximise
+2023-02-19 09:06:40,316 - DalalStreet automation Framework -INFO - object creation
+2023-02-19 09:06:41,020 - DalalStreet automation Framework -INFO - login to the application
+2023-02-19 09:06:41,025 - DalalStreet automation Framework -INFO - test case execution start - buyverificationWithLongTermMarket
+2023-02-19 09:07:18,966 - DalalStreet automation Framework -INFO - test case execution fail - buyverificationWithLongTermMarket
+2023-02-19 09:07:19,189 - DalalStreet automation Framework -INFO - teke screenshot - 
+2023-02-19 09:07:39,949 - DalalStreet automation Framework -INFO - brauser loncg,url,maximise
+2023-02-19 09:07:39,951 - DalalStreet automation Framework -INFO - object creation
+2023-02-19 09:07:40,635 - DalalStreet automation Framework -INFO - login to the application
+2023-02-19 09:07:40,641 - DalalStreet automation Framework -INFO - test case execution start - tansitionPageDataGet
+2023-02-19 09:07:46,810 - DalalStreet automation Framework -INFO - test case execution fail - tansitionPageDataGet
+2023-02-19 09:07:47,041 - DalalStreet automation Framework -INFO - teke screenshot - 
+2023-02-19 09:07:47,043 - DalalStreet automation Framework -INFO - framework exicution stoped
+2023-02-20 05:44:24,426 - DalalStreet automation Framework -INFO - framework exicution started
+2023-02-20 05:46:00,729 - DalalStreet automation Framework -INFO - brauser loncg,url,maximise
+2023-02-20 05:46:00,795 - DalalStreet automation Framework -INFO - object creation
+2023-02-20 05:46:01,595 - DalalStreet automation Framework -INFO - login to the application
+2023-02-20 05:46:01,629 - DalalStreet automation Framework -INFO - test case execution start - buyWithIntradayMarket
+2023-02-20 05:46:25,652 - DalalStreet automation Framework -INFO - test case execution fail - buyWithIntradayMarket
+2023-02-20 05:46:25,865 - DalalStreet automation Framework -INFO - teke screenshot - 
+2023-02-20 05:46:57,628 - DalalStreet automation Framework -INFO - brauser loncg,url,maximise
+2023-02-20 05:46:57,632 - DalalStreet automation Framework -INFO - object creation
+2023-02-20 05:46:58,450 - DalalStreet automation Framework -INFO - login to the application
+2023-02-20 05:46:58,456 - DalalStreet automation Framework -INFO - test case execution start - buyverificationWithLongTermMarket
+2023-02-20 05:47:35,616 - DalalStreet automation Framework -INFO - test case execution fail - buyverificationWithLongTermMarket
+2023-02-20 05:47:35,886 - DalalStreet automation Framework -INFO - teke screenshot - 
+2023-02-20 05:48:11,258 - DalalStreet automation Framework -INFO - test case execution start - tansitionPageDataGet
+2023-02-20 05:48:11,263 - DalalStreet automation Framework -INFO - test case execution skipped - tansitionPageDataGet
+2023-02-20 05:48:11,267 - DalalStreet automation Framework -INFO - framework exicution stoped
+2023-02-20 05:54:28,108 - DalalStreet automation Framework -INFO - framework exicution started
+2023-02-20 05:54:51,635 - DalalStreet automation Framework -INFO - brauser loncg,url,maximise
+2023-02-20 05:54:51,741 - DalalStreet automation Framework -INFO - object creation
+2023-02-20 05:54:52,617 - DalalStreet automation Framework -INFO - login to the application
+2023-02-20 05:54:52,659 - DalalStreet automation Framework -INFO - test case execution start - buyWithIntradayMarket
+2023-02-20 05:55:16,933 - DalalStreet automation Framework -INFO - test case execution fail - buyWithIntradayMarket
+2023-02-20 05:55:17,162 - DalalStreet automation Framework -INFO - teke screenshot - 
+2023-02-20 05:55:31,169 - DalalStreet automation Framework -INFO - test case execution start - buyverificationWithLongTermMarket
+2023-02-20 05:55:31,182 - DalalStreet automation Framework -INFO - test case execution skipped - buyverificationWithLongTermMarket
+2023-02-20 05:55:37,255 - DalalStreet automation Framework -INFO - test case execution start - tansitionPageDataGet
+2023-02-20 05:55:37,269 - DalalStreet automation Framework -INFO - test case execution skipped - tansitionPageDataGet
+2023-02-20 05:55:37,373 - DalalStreet automation Framework -INFO - framework exicution stoped
+2023-02-20 05:59:21,675 - DalalStreet automation Framework -INFO - framework exicution started
+2023-02-20 05:59:30,451 - DalalStreet automation Framework -INFO - brauser loncg,url,maximise
+2023-02-20 05:59:30,506 - DalalStreet automation Framework -INFO - object creation
+2023-02-20 05:59:31,274 - DalalStreet automation Framework -INFO - login to the application
+2023-02-20 05:59:31,304 - DalalStreet automation Framework -INFO - test case execution start - buyverificationWithLongTermMarket
+2023-02-20 05:59:51,524 - DalalStreet automation Framework -INFO - test case execution fail - buyverificationWithLongTermMarket
+2023-02-20 05:59:51,834 - DalalStreet automation Framework -INFO - teke screenshot - 
+2023-02-20 06:00:02,162 - DalalStreet automation Framework -INFO - brauser loncg,url,maximise
+2023-02-20 06:00:02,167 - DalalStreet automation Framework -INFO - object creation
+2023-02-20 06:00:02,929 - DalalStreet automation Framework -INFO - login to the application
+2023-02-20 06:00:02,936 - DalalStreet automation Framework -INFO - test case execution start - tansitionPageDataGet
+2023-02-20 06:00:06,566 - DalalStreet automation Framework -INFO - test case execution fail - tansitionPageDataGet
+2023-02-20 06:00:07,116 - DalalStreet automation Framework -INFO - teke screenshot - 
+2023-02-20 06:00:07,119 - DalalStreet automation Framework -INFO - framework exicution stoped
+2023-02-20 06:11:59,429 - DalalStreet automation Framework -INFO - framework exicution started
+2023-02-20 06:12:19,740 - DalalStreet automation Framework -INFO - brauser loncg,url,maximise
+2023-02-20 06:12:19,813 - DalalStreet automation Framework -INFO - object creation
+2023-02-20 06:12:20,434 - DalalStreet automation Framework -INFO - login to the application
+2023-02-20 06:12:20,459 - DalalStreet automation Framework -INFO - test case execution start - tansitionPageDataGet
+2023-02-20 06:12:26,350 - DalalStreet automation Framework -INFO - test case execution fail - tansitionPageDataGet
+2023-02-20 06:12:26,621 - DalalStreet automation Framework -INFO - teke screenshot - 
+2023-02-20 06:12:26,629 - DalalStreet automation Framework -INFO - framework exicution stoped
+2023-02-20 06:19:10,970 - DalalStreet automation Framework -INFO - framework exicution started
+2023-02-20 06:19:21,307 - DalalStreet automation Framework -INFO - brauser loncg,url,maximise
+2023-02-20 06:19:21,387 - DalalStreet automation Framework -INFO - object creation
+2023-02-20 06:19:22,059 - DalalStreet automation Framework -INFO - login to the application
+2023-02-20 06:19:22,079 - DalalStreet automation Framework -INFO - test case execution start - tansitionPageDataGet
+2023-02-20 06:19:25,101 - DalalStreet automation Framework -INFO - test case execution fail - tansitionPageDataGet
+2023-02-20 06:19:25,320 - DalalStreet automation Framework -INFO - teke screenshot - 
+2023-02-20 06:19:25,328 - DalalStreet automation Framework -INFO - framework exicution stoped
+2023-03-09 10:03:44,653 - DalalStreet automation Framework -INFO - framework exicution started
+2023-03-09 10:04:00,531 - DalalStreet automation Framework -INFO - brauser loncg,url,maximise
+2023-03-09 10:04:00,625 - DalalStreet automation Framework -INFO - object creation
+2023-03-09 10:04:01,380 - DalalStreet automation Framework -INFO - login to the application
+2023-03-09 10:04:01,411 - DalalStreet automation Framework -INFO - test case execution start - tansitionPageDataGet
+2023-03-09 10:04:04,969 - DalalStreet automation Framework -INFO - test case execution fail - tansitionPageDataGet
+2023-03-09 10:04:05,237 - DalalStreet automation Framework -INFO - teke screenshot - 
+2023-03-09 10:04:05,246 - DalalStreet automation Framework -INFO - framework exicution stoped
+2023-03-09 10:05:15,672 - DalalStreet automation Framework -INFO - framework exicution started
+2023-03-09 10:05:24,515 - DalalStreet automation Framework -INFO - brauser loncg,url,maximise
+2023-03-09 10:05:25,111 - DalalStreet automation Framework -INFO - object creation
+2023-03-09 10:05:25,914 - DalalStreet automation Framework -INFO - login to the application
+2023-03-09 10:05:26,039 - DalalStreet automation Framework -INFO - test case execution start - loginveryfication
+2023-03-09 10:05:26,138 - DalalStreet automation Framework -INFO - test case execution fail - loginveryfication
+2023-03-09 10:05:26,703 - DalalStreet automation Framework -INFO - teke screenshot - 
+2023-03-09 10:05:35,602 - DalalStreet automation Framework -INFO - brauser loncg,url,maximise
+2023-03-09 10:05:35,604 - DalalStreet automation Framework -INFO - object creation
+2023-03-09 10:05:36,823 - DalalStreet automation Framework -INFO - login to the application
+2023-03-09 10:05:36,831 - DalalStreet automation Framework -INFO - test case execution start - tansitionPageDataGet
+2023-03-09 10:05:39,849 - DalalStreet automation Framework -INFO - test case execution fail - tansitionPageDataGet
+2023-03-09 10:05:40,108 - DalalStreet automation Framework -INFO - teke screenshot - 
+2023-03-09 10:05:40,111 - DalalStreet automation Framework -INFO - framework exicution stoped
+2023-03-09 10:12:20,831 - DalalStreet automation Framework -INFO - framework exicution started
+2023-03-09 10:12:29,261 - DalalStreet automation Framework -INFO - brauser loncg,url,maximise
+2023-03-09 10:12:29,314 - DalalStreet automation Framework -INFO - object creation
+2023-03-09 10:12:30,091 - DalalStreet automation Framework -INFO - login to the application
+2023-03-09 10:12:30,127 - DalalStreet automation Framework -INFO - test case execution start - loginveryfication
+2023-03-09 10:12:30,188 - DalalStreet automation Framework -INFO - test case execution fail - loginveryfication
+2023-03-09 10:12:30,418 - DalalStreet automation Framework -INFO - teke screenshot - 
+2023-03-09 10:12:36,309 - DalalStreet automation Framework -INFO - brauser loncg,url,maximise
+2023-03-09 10:12:36,311 - DalalStreet automation Framework -INFO - object creation
+2023-03-09 10:12:37,031 - DalalStreet automation Framework -INFO - login to the application
+2023-03-09 10:12:37,034 - DalalStreet automation Framework -INFO - test case execution start - tansitionPageDataGet
+2023-03-09 10:12:39,944 - DalalStreet automation Framework -INFO - test case execution fail - tansitionPageDataGet
+2023-03-09 10:12:40,227 - DalalStreet automation Framework -INFO - teke screenshot - 
+2023-03-09 10:12:40,230 - DalalStreet automation Framework -INFO - framework exicution stoped
+2023-03-09 10:15:27,795 - DalalStreet automation Framework -INFO - framework exicution started
+2023-03-09 10:15:36,606 - DalalStreet automation Framework -INFO - brauser loncg,url,maximise
+2023-03-09 10:15:36,677 - DalalStreet automation Framework -INFO - object creation
+2023-03-09 10:15:37,338 - DalalStreet automation Framework -INFO - login to the application
+2023-03-09 10:15:37,362 - DalalStreet automation Framework -INFO - test case execution start - loginveryfication
+2023-03-09 10:15:43,413 - DalalStreet automation Framework -INFO - test case execution sucsses - loginveryfication
+2023-03-09 10:15:50,253 - DalalStreet automation Framework -INFO - brauser loncg,url,maximise
+2023-03-09 10:15:50,255 - DalalStreet automation Framework -INFO - object creation
+2023-03-09 10:15:51,189 - DalalStreet automation Framework -INFO - login to the application
+2023-03-09 10:15:51,198 - DalalStreet automation Framework -INFO - test case execution start - tansitionPageDataGet
+2023-03-09 10:15:54,196 - DalalStreet automation Framework -INFO - test case execution fail - tansitionPageDataGet
+2023-03-09 10:15:54,584 - DalalStreet automation Framework -INFO - teke screenshot - 
+2023-03-09 10:15:54,589 - DalalStreet automation Framework -INFO - framework exicution stoped
